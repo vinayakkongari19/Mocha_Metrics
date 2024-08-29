@@ -59,5 +59,5 @@ This project provides valuable insights into the coffee shop's sales performance
 - Fridays and weekends showed higher sales volumes, suggesting increased customer visits at the end of the week.
 
 ## Contact
-For any questions or further information, please contact: [vinayakkongari19@gmaul.com]
+For any questions or further information, please contact: [vinayakkongari19@gmail.com]
 
